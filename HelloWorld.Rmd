@@ -2,7 +2,8 @@
 title: "HelloWorldMarkdown"
 author: "Kristin Vanderbilt"
 date: "4/29/2020"
-output: html_document
+output: 
+  github_document
 ---
 
 ```{r setup, include=FALSE}
