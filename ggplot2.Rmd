@@ -1,0 +1,10 @@
+---
+title: "Graphics with GGplot2"
+author: "Kristin Vanderbilt"
+date: "4/29/2020"
+output: html_document
+---
+
+# Learning ggplot2
+
+this is going to be amazing!
